@@ -22,8 +22,8 @@ export default function PostItem(props) {
               <Image
                 src={imagePath}
                 alt={title}
-                width={1920}
-                height={1080}
+                width={17.7}
+                height={10}
                 layout="responsive"
               />
             </div>
